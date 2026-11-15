@@ -1,0 +1,10 @@
+# 编译产物
+out/
+*.class
+*.jar
+
+# macOS
+.DS_Store
+
+# 本地编辑器配置，不要把个人机器路径提交上去
+*.code-workspace

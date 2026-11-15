@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "session3/src"
+    ],
+    "maven.terminal.useJavaHome": true
+}
